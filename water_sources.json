@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "x": 103.8053,
+    "y": 31.64278,
+    "z": 1565,
+    "water_depth": 4.5,
+    "capacity": 2200,
+    "wave": 3,
+    "turbulence": 0.6,
+    "wind_shear": 0.2,
+    "obstacle_dist": 600
+  },
+  {
+    "id": 2,
+    "x":103.9403,
+    "y": 31.73111,
+    "z": 1570,
+    "water_depth": 1.0,
+    "capacity": 1000,
+    "wave": 0,
+    "turbulence": 0.1,
+    "wind_shear": 0.5,
+    "obstacle_dist": 100
+  },
+  {
+    "id": 3,
+    "x": 103.9931,
+    "y": 31.45389,
+    "z": 1165,
+    "water_depth": 3.8,
+    "capacity": 1800,
+    "wave": 2,
+    "turbulence": 0.8,
+    "wind_shear": 0.7,
+    "obstacle_dist": 50
+  },
+  {
+    "id": 4,
+    "x": 104.0772,
+    "y": 31.52611,
+    "z": 1090,
+    "water_depth": 2.5,
+    "capacity": 600,
+    "wave": 1,
+    "turbulence": 0.2,
+    "wind_shear": 0.9,
+    "obstacle_dist": 20
+  }
+]
